@@ -1,0 +1,53 @@
+﻿@model List<Brand>
+
+<div class="container">
+	<div class="row mb-6">
+		<div class="col-md-4 text-uppercase"> 
+			<h2>Car Brand List</h2>
+			</div>
+		<div class="col-md-6 text-end">
+			<a asp-controller="Brand" asp-action="BrandCreate" class="btn btn-primary text-black"><i class="bi bi-plus-square-fill"></i>Create</a>
+				</div>
+	</div>
+	<hr />
+	@if(Model.Count > 0){
+		<table class="table table-bordered table-striped">
+		<thead><th>Name</th>
+			<th> Established Year</th>
+			</thead>
+			<tbody> 
+				@foreach(var item in Model)
+				{
+					<tr>
+						<td>@item.BrandName</td>
+						<td>@item.EstablishedYear</td>
+						<td class="d-flex align-items-center justify-content-center">
+							<div class="w-75 btn-group" role="group">
+								<a asp-controller="Brand" asp-action="BrandDetails" asp-route-id="@item.BrandId"
+								   class="btn btn-info" data-toggle="tooltip" data-placement="top" title="Details">
+									<i class="bi bi-info-circle"></i> Details
+								</a>
+							</div>
+						</td>
+						<td>
+							<a asp-controller="Brand" asp-action="BrandDelete" asp-route-id="@item.BrandId" class="btn btn-danger">
+								<button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#deleteModal" 
+									data-brand-id="@item.BrandId" data-brand-name="@item.BrandName">
+								<i class="bi bi-trash"></i> Delete
+							</button>
+							</a>
+						</td>
+					</tr>
+			    }
+			</tbody>
+	</table>
+	}
+	else
+	{
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12"></div>
+				<h2 class="text-center text-uppercase text-warning pt-4">No Records to show</h2>
+			</div>
+		</div>
+	}

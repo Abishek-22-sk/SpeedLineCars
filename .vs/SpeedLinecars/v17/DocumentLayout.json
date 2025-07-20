@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Asp.net\\SpeedLinecars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A04CCAC7-FFD4-4C5D-B08B-406808A6069E}|SpeedLinecars\\SpeedLinecars.csproj|c:\\asp.net\\speedlinecars\\speedlinecars\\views\\brand\\brandcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A04CCAC7-FFD4-4C5D-B08B-406808A6069E}|SpeedLinecars\\SpeedLinecars.csproj|solutionrelative:speedlinecars\\views\\brand\\brandcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04CCAC7-FFD4-4C5D-B08B-406808A6069E}|SpeedLinecars\\SpeedLinecars.csproj|c:\\asp.net\\speedlinecars\\speedlinecars\\views\\brand\\branddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A04CCAC7-FFD4-4C5D-B08B-406808A6069E}|SpeedLinecars\\SpeedLinecars.csproj|solutionrelative:speedlinecars\\views\\brand\\branddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04CCAC7-FFD4-4C5D-B08B-406808A6069E}|SpeedLinecars\\SpeedLinecars.csproj|c:\\asp.net\\speedlinecars\\speedlinecars\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A04CCAC7-FFD4-4C5D-B08B-406808A6069E}|SpeedLinecars\\SpeedLinecars.csproj|solutionrelative:speedlinecars\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04CCAC7-FFD4-4C5D-B08B-406808A6069E}|SpeedLinecars\\SpeedLinecars.csproj|c:\\asp.net\\speedlinecars\\speedlinecars\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04CCAC7-FFD4-4C5D-B08B-406808A6069E}|SpeedLinecars\\SpeedLinecars.csproj|solutionrelative:speedlinecars\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04CCAC7-FFD4-4C5D-B08B-406808A6069E}|SpeedLinecars\\SpeedLinecars.csproj|c:\\asp.net\\speedlinecars\\speedlinecars\\views\\brand\\branddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A04CCAC7-FFD4-4C5D-B08B-406808A6069E}|SpeedLinecars\\SpeedLinecars.csproj|solutionrelative:speedlinecars\\views\\brand\\branddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04CCAC7-FFD4-4C5D-B08B-406808A6069E}|SpeedLinecars\\SpeedLinecars.csproj|c:\\asp.net\\speedlinecars\\speedlinecars\\service\\brandservice\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04CCAC7-FFD4-4C5D-B08B-406808A6069E}|SpeedLinecars\\SpeedLinecars.csproj|solutionrelative:speedlinecars\\service\\brandservice\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04CCAC7-FFD4-4C5D-B08B-406808A6069E}|SpeedLinecars\\SpeedLinecars.csproj|c:\\asp.net\\speedlinecars\\speedlinecars\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04CCAC7-FFD4-4C5D-B08B-406808A6069E}|SpeedLinecars\\SpeedLinecars.csproj|solutionrelative:speedlinecars\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04CCAC7-FFD4-4C5D-B08B-406808A6069E}|SpeedLinecars\\SpeedLinecars.csproj|c:\\asp.net\\speedlinecars\\speedlinecars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04CCAC7-FFD4-4C5D-B08B-406808A6069E}|SpeedLinecars\\SpeedLinecars.csproj|solutionrelative:speedlinecars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04CCAC7-FFD4-4C5D-B08B-406808A6069E}|SpeedLinecars\\SpeedLinecars.csproj|c:\\asp.net\\speedlinecars\\speedlinecars\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A04CCAC7-FFD4-4C5D-B08B-406808A6069E}|SpeedLinecars\\SpeedLinecars.csproj|solutionrelative:speedlinecars\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04CCAC7-FFD4-4C5D-B08B-406808A6069E}|SpeedLinecars\\SpeedLinecars.csproj|c:\\asp.net\\speedlinecars\\speedlinecars\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A04CCAC7-FFD4-4C5D-B08B-406808A6069E}|SpeedLinecars\\SpeedLinecars.csproj|solutionrelative:speedlinecars\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04CCAC7-FFD4-4C5D-B08B-406808A6069E}|SpeedLinecars\\SpeedLinecars.csproj|c:\\asp.net\\speedlinecars\\speedlinecars\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04CCAC7-FFD4-4C5D-B08B-406808A6069E}|SpeedLinecars\\SpeedLinecars.csproj|solutionrelative:speedlinecars\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 359,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "SpeedLinecars\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "SpeedLinecars\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAawEIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:40:47.645Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrandDelete.cshtml",
+              "DocumentMoniker": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\Views\\Brand\\BrandDelete.cshtml",
+              "RelativeDocumentMoniker": "SpeedLinecars\\Views\\Brand\\BrandDelete.cshtml",
+              "ToolTip": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\Views\\Brand\\BrandDelete.cshtml",
+              "RelativeToolTip": "SpeedLinecars\\Views\\Brand\\BrandDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T08:54:29.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrandDetails.cshtml",
+              "DocumentMoniker": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\Views\\Brand\\BrandDetails.cshtml",
+              "RelativeDocumentMoniker": "SpeedLinecars\\Views\\Brand\\BrandDetails.cshtml",
+              "ToolTip": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\Views\\Brand\\BrandDetails.cshtml",
+              "RelativeToolTip": "SpeedLinecars\\Views\\Brand\\BrandDetails.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T06:50:25.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BrandService.cs",
+              "DocumentMoniker": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\Service\\BrandService\\BrandService.cs",
+              "RelativeDocumentMoniker": "SpeedLinecars\\Service\\BrandService\\BrandService.cs",
+              "ToolTip": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\Service\\BrandService\\BrandService.cs",
+              "RelativeToolTip": "SpeedLinecars\\Service\\BrandService\\BrandService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T03:32:08.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrandCreate.cshtml",
+              "DocumentMoniker": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\Views\\Brand\\BrandCreate.cshtml",
+              "RelativeDocumentMoniker": "SpeedLinecars\\Views\\Brand\\BrandCreate.cshtml",
+              "ToolTip": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\Views\\Brand\\BrandCreate.cshtml",
+              "RelativeToolTip": "SpeedLinecars\\Views\\Brand\\BrandCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T10:01:25.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "SpeedLinecars\\Models\\Brand.cs",
+              "ToolTip": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\Models\\Brand.cs",
+              "RelativeToolTip": "SpeedLinecars\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T09:40:46.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "SpeedLinecars\\Views\\Brand\\Index.cshtml",
+              "ToolTip": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\Views\\Brand\\Index.cshtml",
+              "RelativeToolTip": "SpeedLinecars\\Views\\Brand\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T05:42:37.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\Program.cs",
+              "RelativeDocumentMoniker": "SpeedLinecars\\Program.cs",
+              "ToolTip": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\Program.cs",
+              "RelativeToolTip": "SpeedLinecars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T04:47:55.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SpeedLinecars\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SpeedLinecars\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T05:33:59.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SpeedLinecars\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SpeedLinecars\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T14:52:08.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SpeedLinecars\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SpeedLinecars\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T14:47:22.625Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 41,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
