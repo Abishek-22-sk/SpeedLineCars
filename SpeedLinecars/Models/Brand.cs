@@ -1,11 +1,13 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace SpeedLinecars.Models
 {
     public class Brand
     {
         [Key]
-        public Guid BrandId { get; set; }
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int BrandId { get; set; }
 
         [Required]
         [Display(Name ="Brand Name")]

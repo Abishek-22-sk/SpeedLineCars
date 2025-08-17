@@ -1,8 +1,11 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\brand\01eb7f41-7395-4386-b595-9e184a7eacb6.jpg
 wwwroot\images\brand\276def3b-71f7-4be2-985e-63fc8c3232ba.jpg
 wwwroot\images\brand\3c22c74a-537e-47d1-9287-74eddd42c0b6.jpg
 wwwroot\images\brand\4ed5dd3b-ae32-4bf4-b69c-a0bace20d039.jpg
+wwwroot\images\brand\5703887d-6aaa-4358-a6f8-e91d33345c00.jpg
+wwwroot\images\brand\6686ea9d-3a44-4171-8479-78c41c4104eb.jpg
 wwwroot\images\brand\f6600eac-cc4c-415f-bef9-90aca66d0510.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

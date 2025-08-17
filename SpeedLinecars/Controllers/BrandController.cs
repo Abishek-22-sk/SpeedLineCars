@@ -46,7 +46,7 @@ namespace SpeedLinecars.Controllers
                 {
                     file[0].CopyTo(filestream);
                 }
-                brand.BrandLogo = @"image\brand\" + newfileName + extension;
+                brand.BrandLogo = @"image/brand/" + newfileName + extension;
             }
             if (ModelState.IsValid)
             {
@@ -57,21 +57,21 @@ namespace SpeedLinecars.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> BrandDetails(Guid id)
+        public async Task<IActionResult> BrandDetails(int id)
         {
-           var brand= await _brandService.BrandDetailsAsync(id);
+            var brand = await _brandService.BrandDetailsAsync(id);
             return View(brand);
         }
 
-        [HttpPost]
-        public IActionResult BrandDelete(int id)
+        [HttpGet]
+        public IActionResult BrandDelete(int BrandId)
         {
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
-                _brandService.BrandDelete(id);
+                _brandService.BrandDelete(BrandId);
             }
-                return RedirectToAction(nameof(Index));
+            return RedirectToAction(nameof(Index));
         }
     }
-    }
+}
 

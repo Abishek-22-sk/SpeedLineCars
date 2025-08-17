@@ -24,10 +24,6 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRcQnJhbmRDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Asp.net/SpeedLinecars/SpeedLinecars/Views/Brand/BrandDelete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRcQnJhbmREZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Asp.net/SpeedLinecars/SpeedLinecars/Views/Brand/BrandDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRcQnJhbmREZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpeedLinecars")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70e0280993043ac14ffe74f76ba85b4a722eda08")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpeedLinecars")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpeedLinecars")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

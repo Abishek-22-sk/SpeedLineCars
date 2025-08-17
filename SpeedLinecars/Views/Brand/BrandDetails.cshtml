@@ -1,42 +1,36 @@
 ﻿@model Brand
 
-<div class="container">
-	<div class="card">
-		<div class="card-header text-center text-black text-uppercase">BrandDetails</div>
+<div class="container" >
+	<div class="card" style="background-color: aqua;">
+		<div class="card-header text-center text-black text-uppercase" style="background-color: lightblue;">BrandDetails</div>
 
 		<div class="row">
 			<div class="col-md-8">
 				<div class="row"></div>
 				<div class="col-md-4"></div>
-				<p class="text-uppercase card-text"><strong>Brand Id</strong></p>
-			</div>
-			<div class="col-md-8">
-				<p class="card-text">:@Model.BrandId</p>
+				<p class="text-uppercase card-text"><strong>Brand Id</strong>  :@Model.BrandId</p>
+
 			</div>
 			<div class="row">
 				<div class="col-md-8">
 					<div class="row"></div>
 					<div class="col-md-4"></div>
-					<p class="text-uppercase card-text"><strong>Brand Name</strong></p>
+					<p class="text-uppercase card-text"><strong>Brand Name</strong>  : @Model.BrandName</p>
 				</div>
-				<div class="col-md-8">
-					<p class="card-text">:@Model.BrandName</p>
-				</div>
+
 				<div class="row">
 					<div class="col-md-8">
 						<div class="row"></div>
 						<div class="col-md-4"></div>
-						<p class="text-uppercase card-text"><strong>Established Year</strong></p>
+						<p class="text-uppercase card-text"><strong>Established Year</strong> :@Model.EstablishedYear</p>
 					</div>
-					<div class="col-md-8">
-						<p class="card-text">:@Model.EstablishedYear</p>
-					</div>
+
 					<div class="col-md-4"></div>
-					<img src="~/@Model.BrandLogo" alt="@Model.BrandName Logo" class="img-fluid " width="100%"/>
+					<img src="~/@Model.BrandLogo" alt="Brand Logo" width="100" />
 				</div>
 				<div class="row">
 					<div class="col-md-12 text-center">
-						<a asp-controller="Brand" asp-action="Index" class="btn btn-danger">Back</a>
+						<a asp-controller="Brand" asp-action="Index" class="btn-outline-danger">Back</a>
 					</div>
 				</div>
 			</div>

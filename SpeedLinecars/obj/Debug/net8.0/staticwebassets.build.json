@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ROvDEPDnKHTKi0yLxQm/hl2BsXe8i4D8Eo0RntOPSK4=",
+  "Hash": "Piz2Y47G94jv9H7fL2s8/K2fyKuVUuJs3HAFJcHZTgc=",
   "Source": "SpeedLinecars",
   "BasePath": "_content/SpeedLinecars",
   "Mode": "Default",
@@ -101,6 +101,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\wwwroot\\images\\brand\\01eb7f41-7395-4386-b595-9e184a7eacb6.jpg",
+      "SourceId": "SpeedLinecars",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\wwwroot\\",
+      "BasePath": "_content/SpeedLinecars",
+      "RelativePath": "images/brand/01eb7f41-7395-4386-b595-9e184a7eacb6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "igwfqdv9ag",
+      "Integrity": "EjA9RHyl6VxGzyW7yNf2tdAtlqIcWnLewQTxYQg9BeE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\brand\\01eb7f41-7395-4386-b595-9e184a7eacb6.jpg"
+    },
+    {
       "Identity": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\wwwroot\\images\\brand\\276def3b-71f7-4be2-985e-63fc8c3232ba.jpg",
       "SourceId": "SpeedLinecars",
       "SourceType": "Discovered",
@@ -162,6 +183,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\brand\\4ed5dd3b-ae32-4bf4-b69c-a0bace20d039.jpg"
+    },
+    {
+      "Identity": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\wwwroot\\images\\brand\\5703887d-6aaa-4358-a6f8-e91d33345c00.jpg",
+      "SourceId": "SpeedLinecars",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\wwwroot\\",
+      "BasePath": "_content/SpeedLinecars",
+      "RelativePath": "images/brand/5703887d-6aaa-4358-a6f8-e91d33345c00#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "igwfqdv9ag",
+      "Integrity": "EjA9RHyl6VxGzyW7yNf2tdAtlqIcWnLewQTxYQg9BeE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\brand\\5703887d-6aaa-4358-a6f8-e91d33345c00.jpg"
+    },
+    {
+      "Identity": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\wwwroot\\images\\brand\\6686ea9d-3a44-4171-8479-78c41c4104eb.jpg",
+      "SourceId": "SpeedLinecars",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\wwwroot\\",
+      "BasePath": "_content/SpeedLinecars",
+      "RelativePath": "images/brand/6686ea9d-3a44-4171-8479-78c41c4104eb#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "igwfqdv9ag",
+      "Integrity": "EjA9RHyl6VxGzyW7yNf2tdAtlqIcWnLewQTxYQg9BeE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\brand\\6686ea9d-3a44-4171-8479-78c41c4104eb.jpg"
     },
     {
       "Identity": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\wwwroot\\images\\brand\\f6600eac-cc4c-415f-bef9-90aca66d0510.jpg",
@@ -1569,6 +1632,88 @@
       ]
     },
     {
+      "Route": "images/brand/01eb7f41-7395-4386-b595-9e184a7eacb6.igwfqdv9ag.jpg",
+      "AssetFile": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\wwwroot\\images\\brand\\01eb7f41-7395-4386-b595-9e184a7eacb6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58274"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EjA9RHyl6VxGzyW7yNf2tdAtlqIcWnLewQTxYQg9BeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Aug 2025 18:10:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "igwfqdv9ag"
+        },
+        {
+          "Name": "label",
+          "Value": "images/brand/01eb7f41-7395-4386-b595-9e184a7eacb6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EjA9RHyl6VxGzyW7yNf2tdAtlqIcWnLewQTxYQg9BeE="
+        }
+      ]
+    },
+    {
+      "Route": "images/brand/01eb7f41-7395-4386-b595-9e184a7eacb6.jpg",
+      "AssetFile": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\wwwroot\\images\\brand\\01eb7f41-7395-4386-b595-9e184a7eacb6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58274"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EjA9RHyl6VxGzyW7yNf2tdAtlqIcWnLewQTxYQg9BeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Aug 2025 18:10:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EjA9RHyl6VxGzyW7yNf2tdAtlqIcWnLewQTxYQg9BeE="
+        }
+      ]
+    },
+    {
       "Route": "images/brand/276def3b-71f7-4be2-985e-63fc8c3232ba.igwfqdv9ag.jpg",
       "AssetFile": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\wwwroot\\images\\brand\\276def3b-71f7-4be2-985e-63fc8c3232ba.jpg",
       "Selectors": [],
@@ -1811,6 +1956,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-Es4RxGNZV85irVcMw4z984lHWwAwNFC9uFFyCjzRXuk="
+        }
+      ]
+    },
+    {
+      "Route": "images/brand/5703887d-6aaa-4358-a6f8-e91d33345c00.igwfqdv9ag.jpg",
+      "AssetFile": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\wwwroot\\images\\brand\\5703887d-6aaa-4358-a6f8-e91d33345c00.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58274"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EjA9RHyl6VxGzyW7yNf2tdAtlqIcWnLewQTxYQg9BeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Aug 2025 17:29:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "igwfqdv9ag"
+        },
+        {
+          "Name": "label",
+          "Value": "images/brand/5703887d-6aaa-4358-a6f8-e91d33345c00.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EjA9RHyl6VxGzyW7yNf2tdAtlqIcWnLewQTxYQg9BeE="
+        }
+      ]
+    },
+    {
+      "Route": "images/brand/5703887d-6aaa-4358-a6f8-e91d33345c00.jpg",
+      "AssetFile": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\wwwroot\\images\\brand\\5703887d-6aaa-4358-a6f8-e91d33345c00.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58274"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EjA9RHyl6VxGzyW7yNf2tdAtlqIcWnLewQTxYQg9BeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Aug 2025 17:29:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EjA9RHyl6VxGzyW7yNf2tdAtlqIcWnLewQTxYQg9BeE="
+        }
+      ]
+    },
+    {
+      "Route": "images/brand/6686ea9d-3a44-4171-8479-78c41c4104eb.igwfqdv9ag.jpg",
+      "AssetFile": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\wwwroot\\images\\brand\\6686ea9d-3a44-4171-8479-78c41c4104eb.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58274"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EjA9RHyl6VxGzyW7yNf2tdAtlqIcWnLewQTxYQg9BeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Jul 2025 15:38:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "igwfqdv9ag"
+        },
+        {
+          "Name": "label",
+          "Value": "images/brand/6686ea9d-3a44-4171-8479-78c41c4104eb.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EjA9RHyl6VxGzyW7yNf2tdAtlqIcWnLewQTxYQg9BeE="
+        }
+      ]
+    },
+    {
+      "Route": "images/brand/6686ea9d-3a44-4171-8479-78c41c4104eb.jpg",
+      "AssetFile": "C:\\Asp.net\\SpeedLinecars\\SpeedLinecars\\wwwroot\\images\\brand\\6686ea9d-3a44-4171-8479-78c41c4104eb.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58274"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EjA9RHyl6VxGzyW7yNf2tdAtlqIcWnLewQTxYQg9BeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Jul 2025 15:38:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EjA9RHyl6VxGzyW7yNf2tdAtlqIcWnLewQTxYQg9BeE="
         }
       ]
     },

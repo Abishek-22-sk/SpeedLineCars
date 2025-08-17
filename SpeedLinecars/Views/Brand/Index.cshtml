@@ -30,12 +30,16 @@
 							</div>
 						</td>
 						<td>
-							<a asp-controller="Brand" asp-action="BrandDelete" asp-route-id="@item.BrandId" class="btn btn-danger">
-								<button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#deleteModal" 
-									data-brand-id="@item.BrandId" data-brand-name="@item.BrandName">
-								<i class="bi bi-trash"></i> Delete
-							</button>
-							</a>
+							<form asp-controller="Brand" asp-action="BrandDelete" asp-route-id="@item.BrandId"
+								  method="get" onsubmit="return confirm('Are you sure you want to delete this brand?');"
+								  style="display: inline;">
+								@Html.AntiForgeryToken()
+								<button type="submit" class="btn btn-danger" data-toggle="modal"
+										title="Delete">
+									<i class="bi bi-trash"></i> Delete
+								</button>
+							</form>
+
 						</td>
 					</tr>
 			    }
